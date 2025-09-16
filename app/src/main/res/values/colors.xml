@@ -1,0 +1,20 @@
+<resources>
+    <!--
+Rheema Ayyash
+IT372 Final
+June 3,2025
+stores the colors used for the buttons
+-->
+    <color name="primary">#4CAF50</color>
+    <color name="secondary">#03A9F4</color>
+    <color name="bgColor">#FFFFFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#DC143C</color>
+    <color name="green">#3CB371</color>
+    <color name="blue">#1E90FF</color>
+    <color name="purple">#9400D3</color>
+    <color name="peach">#FFB6C1</color>
+    <color name="gray">#B0C4DE</color>
+</resources>
+

@@ -1,0 +1,39 @@
+<resources>
+    <!--
+Rheema Ayyash
+IT372 Final
+June 3,2025
+stores the strings in source file from each file, like names of buttons
+required info, etc.
+
+-->
+    <string name="app_name">Internship App</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="app_logo">Logo</string>
+
+    <string-array name="majors_array">
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Software Engineering</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="freshman">Freshman</string>
+    <string name="sophomore">Sophomore</string>
+    <string name="junior">Junior</string>
+    <string name="senior">Senior</string>
+    <string name="back">Back</string>
+    <string name="major">Major</string>
+    <string name="if_other_type_major_here">If other, type major here</string>
+    <string name="type_other_skills_here">Type other skills here</string>
+    <string name="pick_availability_date">Pick Availability Date</string>
+    <string name="submit_application">Submit Application</string>
+    <string name="gpa">GPA</string>
+    <string name="view_applications">View Applications</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="c">C++</string>
+    <string name="back_to_application">Back to Application</string>
+    <string name="no_applications_found">No applications found.</string>
+</resources>
